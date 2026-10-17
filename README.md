@@ -2,7 +2,7 @@
 
 A hackathon prototype of an emergency app that guides civilians to the nearest shelter and helps them coordinate with the people around them.
 
-**Ariel University × Amazon hackathon** on startup solutions for recovery, resilience and emergency response · team of five · prototype built with [Base44](https://base44.com)
+**Finalist, Ariel University × Amazon hackathon** on startup solutions for recovery, resilience and emergency response · team of five · prototype built with [Base44](https://base44.com)
 
 **Live prototype:** [open in Base44](https://app.base44.com/apps/680e0a913bf6568230dcb0c9)
 
@@ -45,4 +45,4 @@ Turning it into a real product would start with data: official shelter locations
 
 Nir Avrahamoff, Tomer Meirovich, Nadav Schclar, Tomer Baruch and Eyal Haim Buzaglo.
 
-My part: building the prototype in Base44.
+The project reached the hackathon finals. My part: I built the prototype in Base44 and presented the project to the judges in the final.
